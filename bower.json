@@ -1,0 +1,19 @@
+{
+  "name": "DrejCreative-Template",
+  "version": "1.0.0",
+  "authors": [
+    "Andrej Vajagic <drejcreative@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}

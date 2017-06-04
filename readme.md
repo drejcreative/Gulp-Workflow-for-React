@@ -3,7 +3,7 @@
 
 This is Gulp workflow created for easier work with ReactJs and Sass. It use Babel and browserify for covering imports and JSX and converting them to one js file. Aslo, it cover converting scss to css. BrowserSync is integrated so we have live server and live preview with browser reload on file changes. it can be started with `gulp` comand.
 
-We've also built a second task, build, that creates a dist folder for the production website. We compiled Sass into CSS, compile js from react files, optimized all our assets, and copied the necessary folders into the dist folder. To run this task, we just have to type `gulp build` into the command line.
+We've also built a second task, build, that creates a dist folder for the production ready application. We compiled Sass into CSS, compile js from react files, optimized all our assets, and copied the necessary folders into the dist folder. To run this task, we just have to type `gulp build` into the command line.
 
 * Spins up a web server
 * Compiles Sass to CSS
